@@ -1,0 +1,32 @@
+{
+  "siteTheme": {
+    "ui": "dark-glass",
+    "paletteId": "Aurora",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260322-095339-73lp",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-03-22T14:53:39.000Z",
+      "dateEnd": "2026-03-22T15:07:34.000Z",
+      "dateLabel": "3/22/2026, 9:53:39 AM - 3/22/2026, 10:07:34 AM",
+      "url": "https://leonardolopez0098.github.io/leonardolopez0098/?report=20260322-095339-73lp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 62
+      }
+    }
+  ]
+}
