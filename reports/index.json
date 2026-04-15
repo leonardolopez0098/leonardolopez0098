@@ -1,10 +1,35 @@
 {
-  "siteTheme": {
-    "ui": "dark-glass",
-    "paletteId": "Aurora",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260414-193951-kiej",
+      "title": "Leo Stole My Heart",
+      "commanders": [
+        "Leo Stole My Heart"
+      ],
+      "dateStart": "2026-04-15T00:39:51.000Z",
+      "dateEnd": "2026-04-15T01:34:08.000Z",
+      "dateLabel": "4/14/2026, 7:39:51 PM - 4/14/2026, 8:34:08 PM",
+      "url": "https://leonardolopez0098.github.io/leonardolopez0098/?report=20260414-193951-kiej",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 40
+      }
+    },
     {
       "id": "20260322-074056-lhzi",
       "title": "Kingofmesmers",
